@@ -1,1 +1,2 @@
-# Data-Compression-and-Decompression-Application-CPP
+## Data-Compression-and-Decompression-Application-CPP
+This project showcases a data compression and decompression application implemented in C++. Using the renowned Huffman Compression Algorithm, it achieves efficient file compression by assigning variable-length codes to characters based on their frequency of occurrence. The application offers a user-friendly command-line interface, enabling seamless compression and decompression of various file formats. By incorporating this project into my GitHub repository, I aim to demonstrate my proficiency in algorithm implementation, file handling, and creating intuitive interfaces in C++.
