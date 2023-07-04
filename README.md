@@ -6,4 +6,4 @@ This project showcases a data compression and decompression application implemen
 ![s2](https://github.com/Piyush-Pise/Data-Compression-and-Decompression-Application-CPP/assets/75115056/506c8ac1-cf9b-49cd-8db8-66745e8fb74f)
 
 ### Decompression
-![s3](https://github.com/Piyush-Pise/Data-Compression-and-Decompression-Application-CPP/assets/75115056/fca4dffc-752c-4f03-8210-b8c63405447f)
+![s4](https://github.com/Piyush-Pise/Data-Compression-and-Decompression-Application-CPP/assets/75115056/9e26fe39-e7cb-48e3-939d-46222f53c17d)
